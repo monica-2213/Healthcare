@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-pip install FPDF
+pip install fpdf
 from fpdf import FPDF
 
 # Define your knowledge base as a dictionary
